@@ -1,0 +1,25 @@
+<style>
+a {color:white;
+    background-color:gray;text-decoration:none}
+a:hover, a:active, a:focus {
+    color:darkred;background-color:darkblue;}
+.kolor1{color: red ;}
+.kolor2{color: blue ;}
+.kolor3{color: green ;}
+#skladniki {
+    font-weight: bold ;
+    text-decoration: underline ;
+}
+#przepis {
+    font-weight: bold ;
+    font-style: italic ;
+}
+#baner {
+    color: white;
+    size: 4px;
+}
+table, th, td{
+    background-color:lightblue;
+    border: 1px solid black;
+}
+</style>
